@@ -1,0 +1,6 @@
+%{
+  "amnesia": {:git, "https://github.com/meh/amnesia.git", "813e2934e4b3fbc88cd3d4c8b6730bd24d57e8ba", []},
+  "exquisite": {:hex, :exquisite, "0.1.8", "ee8f56aae477287ce5e7dfcbc163a420cccbb73e680a6d80a09203e9ef514fa4", [:mix], [], "hexpm"},
+  "jason": {:hex, :jason, "1.0.0", "0f7cfa9bdb23fed721ec05419bcee2b2c21a77e926bce0deda029b5adc716fe2", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm"},
+  "libcluster": {:hex, :libcluster, "2.5.0", "8d2d035bce1b06c80cc644d51d0424906e7ea80fe557285af10019573598b26a", [:mix], [{:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: false]}], "hexpm"},
+}
